@@ -1,0 +1,2 @@
+Currently, all rule bases need to go into this directory,
+as v1 is the currently only existing rulebase format version.

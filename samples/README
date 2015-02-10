@@ -1,0 +1,7 @@
+Log samples go in this directory.
+
+For sample of a single device, they should be stored in
+a $vendor/$device/ subdirectory.
+
+For typical real-world combined logs, just move them to
+a combinded subdirectory.

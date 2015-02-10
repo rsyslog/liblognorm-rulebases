@@ -1,0 +1,9 @@
+In this directory go the actual rulebases.
+
+Note that it contains version-specific subdirectories, where
+the version denotes the version of the **rulebase format**, not
+the version of liblognorm.
+
+This versioning was introduced because we anticipate changes in
+rulebase format. If this happens, it is the projects plan to either
+support different formats at once or provide converters.
