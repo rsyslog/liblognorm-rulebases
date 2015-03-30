@@ -23,14 +23,16 @@ How to Contribute
 Contribution of log samples is extremely easy via our log ingestion server.
 Simply send logs via UDP to:
 
-hostname: logsubmit.rsyslog.com
-port:     514
-protocol: any flavor of syslog or other text data
+param    | value
+---------|------
+hostname | logsubmit.rsyslog.com
+port     | 514
+protocol | any flavor of syslog or other text data
 
 in rsyslog.conf, you can do so via this line:
-
+```
    *.* @logsubmit.rsyslog.com
-
+```
 Logs will be migrated to the respository via a manual process. So please
 don't expect them to show up immediately and bear a little with us.
 
