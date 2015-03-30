@@ -23,5 +23,5 @@ a pull request. Or email the project lead (Rainer Gerhards) directly
 at rgerhards@adiscon.com - or use whichever other method that fits 
 you best.
 
-Please note that all contributions must be under the ASL 2.0 license.
+Please note that all contributions must be under the BSD 2-clause license.
 By contributing, you agree to this.
