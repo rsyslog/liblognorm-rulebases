@@ -1,2 +1,1 @@
-Currently, all rule bases need to go into this directory,
-as v1 is the currently only existing rulebase format version.
+This is the directory for v1 rulebases. Even though liblognorm v2 should still work with these, it's recommended to create new rules based on the v2 format (which go into the v2 directory)
