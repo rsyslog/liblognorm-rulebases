@@ -1,1 +1,6 @@
 This is the directory for v1 rulebases. Even though liblognorm v2 should still work with these, it's recommended to create new rules based on the v2 format (which go into the v2 directory)
+
+Some rulebases can be found here:
+https://github.com/pschiffe/rsyslog-elasticsearch-kibana/tree/master/rsyslog
+
+and here: https://github.com/beave/sagan-rules
